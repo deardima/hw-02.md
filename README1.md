@@ -12,7 +12,7 @@
 ### VM1
 ![VM1](screenshot1.png)
 
-### VM1
+### VM2
 ![VM2](screenshot2.png)
 
 ### Команды установки:
