@@ -1,4 +1,4 @@
-## Screenshot
+## Домашнее задания "Система мониторинга Zabbix" Косарев Д.О.
 
 ![Zabbix Dashboard](images/zabbix-dashboard.png)
 
