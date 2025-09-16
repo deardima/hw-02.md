@@ -9,7 +9,7 @@
 4. Проверена работоспособность мониторинга
 
 ### Скриншот работы системы:
-![Скриншот мониторинга Zabbix](./screenshot1.png)(./screenshot2.png)
+![Скриншот мониторинга Zabbix]([./screenshot1.png](https://github.com/deardima/hw-02.md/blob/screenshots-branch/screenshot1.png))([./screenshot2.png](https://github.com/deardima/hw-02.md/blob/screenshots-branch/screenshot2.png))
 
 ### Команды установки:
 ```bash
