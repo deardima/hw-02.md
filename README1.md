@@ -9,7 +9,9 @@
 4. Проверена работоспособность мониторинга
 
 ### Скриншот работы системы:
-![Скриншот мониторинга Zabbix]([./screenshot1.png](https://github.com/deardima/hw-02.md/blob/screenshots-branch/screenshot1.png))([./screenshot2.png](https://github.com/deardima/hw-02.md/blob/screenshots-branch/screenshot2.png))
+### Скриншот 1
+![VM1](screenshot1.png)
+![VM2](screenshot2.png)
 
 ### Команды установки:
 ```bash
@@ -22,3 +24,5 @@ sudo nano /etc/zabbix/zabbix_agentd.conf
 
 # Перезапуск службы
 sudo systemctl restart zabbix-agent
+
+<- name: Install Скриншоты добавлены -->
